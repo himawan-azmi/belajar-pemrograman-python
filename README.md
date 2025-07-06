@@ -9,4 +9,4 @@ Belajar pemrograman python dari dasar dengan panduan sumber terbuka.
 
 > Sumber Belajar: https://github.com/novalagung/dasarpemrogramanpython
 
-## Instalasi Python
+> Download Python: https://www.python.org/downloads/
